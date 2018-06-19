@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella "/Users/denzildsa/development/ab/SocialMessaging/SocialMessaging/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIODarwin/include"
+    export *
+}
